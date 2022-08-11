@@ -1,0 +1,27 @@
+#main{
+    margin-top: 75px;
+    margin-bottom: 75px;
+    width: 500px;
+    background-color: whitesmoke;
+    opacity: 0.6;
+    padding: 20px 20px;
+}
+.fn{
+    width: 150px;
+    display: inline-block;
+}
+#logouser{
+    width: 90px;
+}
+.cabeza{
+    text-align: center;
+}
+body{
+    background-image: url(./fondo.jpg);
+}
+#registrar{
+    margin-left: 170px;
+}
+textarea{
+    resize: none;
+}
